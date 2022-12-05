@@ -13,7 +13,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Awesome Books ](#-awesome-books-)
+- [📖 Awesome Books Es6 ](#-awesome-books-es6-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,7 +31,7 @@
   - [📝 License ](#-license-)
 
 
-# 📖 Awesome Books <a name="about-project"></a>
+# 📖 Awesome Books Es6 <a name="about-project"></a>
 
 > This is A simple but effective and responsive (mobile first) Microverse exercize project.
 >
@@ -41,7 +41,7 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> I am using Html, Css and Javascript Awesome Books Front end development.
+> I am using Html, Css and Javascript es6 Awesome Books Front end development.
 
 <details>
   <summary>Client</summary>
@@ -124,12 +124,6 @@ npm install
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/raihan2bd)
-
-👤 **Ellon Mordecai**
-
-- GitHub: [@githubhandle](https://github.com/Ellon-M)
-- Twitter: [@twitterhandle](https://twitter.com/ellonm4)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ellon-m)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

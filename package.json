@@ -1,7 +1,7 @@
 {
   "name": "awesome-books-es6",
   "version": "1.0.0",
-  "description": "<a name=\"readme-top\"></a>",
+  "description": "Simple 'Awesome books' liberary system using html, css and javascript",
   "main": "index.js",
   "scripts": {
     "linter-html": "npx hint .",
